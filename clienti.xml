@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clienti>
+	<cliente>
+		<id>001</id>
+		<nome>Michele</nome>
+		<cognome>Malavolta</cognome>
+		<cellulare>38</cellulare>
+		<email>michele.mala</email>
+		<indirizzo>Viale Ro</indirizzo>
+	</cliente>
+	<cliente>
+		<id>002</id>
+		<nome>Mattia</nome>
+		<cognome>Feliziani</cognome>
+		<cellulare>4444</cellulare>
+		<email>mattiadddddni@hotmail.it</email>
+		<indirizzo>Via San Pat</indirizzo>
+	</cliente>
+	<cliente>
+		<id>003</id>
+		<nome>Marco</nome>
+		<cognome>Alesiani</cognome>
+		<cellulare>5555</cellulare>
+		<email>mani@hotmail.it</email>
+		<indirizzo>Contrada Nazion</indirizzo>
+	</cliente>
+	<cliente>
+		<id>004</id>
+		<nome>Maria Fulvia</nome>
+		<cognome>Tattini</cognome>
+		<cellulare>555</cellulare>
+		<email>maria@hotmail.it</email>
+		<indirizzo>Via Di M</indirizzo>
+	</cliente>
+<cliente><id>005</id><nome>Marco</nome><cognome>Bruni</cognome><cellulare>2947927</cellulare><email>adjaojdlajl</email><indirizzo>adjladjlaj</indirizzo></cliente></clienti>
